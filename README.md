@@ -16,7 +16,7 @@ Video Link:
 https://youtu.be/GkfTpev_cg0
 
 Instructions:
-Navigate into the appropriate folder 
+Navigate into the code folder 
 Run the following command: python3 tracker.py
 Use the menu options to complete desired tasks 
 
