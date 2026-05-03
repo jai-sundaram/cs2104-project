@@ -1,0 +1,97 @@
+Expense Tracker Test Cases
+
+Test 1: Add a valid expense
+Input:
+1
+Chipotle
+12.50
+Food
+2026-04-25
+
+Expected Result:
+
+The expense will be added. The expense will appear when viewing all expenses.
+
+Result:
+Passed.
+
+
+Test 2: Add an invalid amount
+Input:
+1
+Coffee
+-5
+
+Expected Result:
+The program should reject the amount.
+
+Result:
+Passed.
+
+
+Test 3: View all expenses
+Input:
+2
+
+Expected Result:
+The program should display all saved expenses.
+
+Result:
+Passed.
+
+
+Test 4: Delete an expense
+Input:
+3
+1
+
+Expected Result:
+The selected expense should be removed from the list.
+
+Result:
+Passed.
+
+
+Test 5: Calculate total spending
+Input:
+4
+
+Expected Result:
+The program should add all expense amounts and display the correct total.
+
+Result:
+Passed.
+
+
+Test 6: Category summary
+Input:
+5
+
+Expected Result:
+The program should group expenses by category and display total spending for each category.
+
+Result:
+Passed.
+
+
+Test 7: Budget check
+Input:
+7
+100
+
+Expected Result:
+The program should compare total spending against the entered budget and state whether the user is over or under budget.
+
+Result:
+Passed.
+
+
+Test 8: Export report
+Input:
+8
+
+Expected Result:
+The program should create a file called expense_report.txt containing all expenses and total spending.
+
+Result:
+Passed.

@@ -1,0 +1,19 @@
+name,amount,category,date
+Chipotle,12.5,food,2026-05-01
+Uber,18.0,transport,2026-05-01
+Starbucks,5.75,food,2026-05-02
+Groceries,45.2,food,2026-05-02
+Amazon,29.99,shopping,2026-05-03
+Netflix,15.49,entertainment,2026-05-03
+Gas,40.0,transport,2026-05-04
+Gym,25.0,health,2026-05-04
+Taco Bell,9.5,food,2026-05-05
+Books,22.3,education,2026-05-05
+Spotify,10.99,entertainment,2026-05-06
+Parking,6.0,transport,2026-05-06
+Clothes,55.75,shopping,2026-05-07
+Pharmacy,13.4,health,2026-05-07
+Pizza,16.25,food,2026-05-08
+Movie,12.0,entertainment,2026-05-09
+Snacks,7.25,food,2026-05-10
+Chipotle ,12.5,food,2026-04-21
